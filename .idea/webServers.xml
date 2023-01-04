@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7ce7dfd3-1dc2-4231-baf4-cd6cc3ded53d" name="pxie">
+        <fileTransfer rootFolder="/home/h5guo" accessType="SFTP" host="ece228-3.ucsd.edu" port="22" sshConfigId="b9a35b94-d704-4be3-a0ce-1b2b680696ce" sshConfig="h5guo@ece228-3.ucsd.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

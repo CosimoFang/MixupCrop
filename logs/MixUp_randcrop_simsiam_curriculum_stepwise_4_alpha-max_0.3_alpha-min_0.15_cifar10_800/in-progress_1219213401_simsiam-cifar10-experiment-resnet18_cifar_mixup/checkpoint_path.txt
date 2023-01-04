@@ -1,0 +1,1 @@
+./ckpt/MixUp_randcrop_simsiam_curriculum_stepwise_4_alpha-max_0.3_alpha-min_0.15_cifar10_800\simsiam-cifar10-experiment-resnet18_cifar_mixup_final_epoch.pth

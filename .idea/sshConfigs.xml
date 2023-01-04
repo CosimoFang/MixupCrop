@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ece228-3.ucsd.edu" id="b9a35b94-d704-4be3-a0ce-1b2b680696ce" port="22" nameFormat="DESCRIPTIVE" username="h5guo" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+./ckpt/MixUp_randcrop_simclr_curriculum_stepwise_4_alpha-max_0.3_alpha-min_0.15_cifar100_800\model_best.pth
