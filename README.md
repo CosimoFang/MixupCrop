@@ -1,5 +1,7 @@
 ## Final Project: MixupCrop
 Representation: [video](https://drive.google.com/file/d/1BMUldS8roIFo2q5fXChp_Qa58jGVcapa/view?usp=sharing)
+
+
 Slides: [CurriculumSSL](https://docs.google.com/presentation/d/1D9RNMQuaFLVkM1PEpTDSVH0_GD8FeibwTX2aOg4j5FI/edit?usp=sharing)
 
 
