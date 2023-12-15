@@ -4,6 +4,7 @@ Representation: [video](https://drive.google.com/file/d/1BMUldS8roIFo2q5fXChp_Qa
 
 Slides: [CurriculumSSL](https://docs.google.com/presentation/d/1D9RNMQuaFLVkM1PEpTDSVH0_GD8FeibwTX2aOg4j5FI/edit?usp=sharing)
 
+### Project Description
 Contrastive learning has been one of the most successful approaches for
 self-supervised learning and has gained more attention ever since. Recent works showed the
 importance of crafting good positive pairs, especially for contrastive methods that only leverage
