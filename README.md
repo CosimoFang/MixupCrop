@@ -1,4 +1,6 @@
 ## Final Project: MixupCrop
+author: Hongchao Fang
+
 Representation: [video](https://drive.google.com/file/d/1BMUldS8roIFo2q5fXChp_Qa58jGVcapa/view?usp=sharing)
 
 
