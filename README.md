@@ -4,6 +4,17 @@ Representation: [video](https://drive.google.com/file/d/1BMUldS8roIFo2q5fXChp_Qa
 
 Slides: [CurriculumSSL](https://docs.google.com/presentation/d/1D9RNMQuaFLVkM1PEpTDSVH0_GD8FeibwTX2aOg4j5FI/edit?usp=sharing)
 
+Contrastive learning has been one of the most successful approaches for
+self-supervised learning and has gained more attention ever since. Recent works showed the
+importance of crafting good positive pairs, especially for contrastive methods that only leverage
+positive pairs. Most previous works implement the standard data augmentation with random
+cropping and did not take into account the congruence within positive pairs. Some works have
+tried to tackle this problem at the cost of computational overhead. In this work, we propose
+CurriculumSSL, an efficient yet effective method that produces better positive
+image pairs without hindering the training speed. Specifically, we use MixUp as a stronger data
+augmentation method and leverage curriculum learning to overcome the difficulty of additional
+perturbations on the input image. Empirical results show that our method achieved consistent
+improvements on multiple contrastive learning frameworks on CIFAR datasets.
 
 
 ### Dependencies
